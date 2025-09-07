@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [pfc-connector-board.PrjPcb]
+   Generated File[Bill of Materials-pfc-connector-board.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 21:23:58 On 7.09.2025
