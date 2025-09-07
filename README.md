@@ -1,4 +1,4 @@
-# connector-board
+# pfc-connector-board
 pfc modbus and can controlling connector board
 
-<img width="1167" height="905" alt="resim" src="https://github.com/user-attachments/assets/b0e07557-8be3-436f-8b82-ff59ccce33ac" />
+<img width="1156" height="863" alt="resim" src="https://github.com/user-attachments/assets/d26624b3-d56b-40f3-b91f-63a21c1bc2c0" />
